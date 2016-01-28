@@ -1,7 +1,7 @@
 name: BennettSecrest
 favicon: null
-layout_spectrum: 0.6404709569178522
-typography_spectrum: 0.21261147572658956
+layout_spectrum: 0
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
