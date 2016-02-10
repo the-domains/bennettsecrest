@@ -1,6 +1,6 @@
 name: BennettSecrest
 favicon: null
-layout_spectrum: 0.25137
+layout_spectrum: 1
 typography_spectrum: 0.37203
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#fafafa'
+    - '#2d6999'
     - '#010101'
-    - '#fddc91'
-    - '#35343a'
-    - '#977675'
-    - '#765241'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0
+    - '#97734a'
+    - '#dbb528'
+  brandStrength: 0.25
+  lightness: 0.625
+  saturation: 0.125
   rhythmicContrast: 0.5
 purpose: []
