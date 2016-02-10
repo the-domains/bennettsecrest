@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This page is under construction
-datePublished: '2016-02-10T18:34:54.529Z'
-dateModified: '2016-02-10T18:34:48.302Z'
+datePublished: '2016-02-10T18:36:50.680Z'
+dateModified: '2016-02-10T18:35:38.508Z'
 title: Bennett B Secrest
 author: []
 sourcePath: _posts/2016-01-28-bennett-b-secrest.md
